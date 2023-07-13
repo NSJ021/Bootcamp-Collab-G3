@@ -66,6 +66,7 @@ $$ $$ $$< $$    $$/ $$ |/$$      |      $$ |  $$ |$$    $$/ $$    $$/
 
 """)
 
+print("Hello World")
 
 test = 'Hello Python'
 test
