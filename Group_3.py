@@ -70,3 +70,6 @@ print("Hello World")
 
 test = 'Hello Python'
 test
+test = 'Hello Python'
+test
+
