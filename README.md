@@ -19,3 +19,9 @@ Each group will pick a module, currently 1-3, and develop 4 multiple-choice ques
 
 The code should be clean and easy to merge with the other groups when the time comes, the general premise is for each group to have its set of questions and answers in their own function.
 Which should allow for easier consolidation of the code when required.
+
+Three questions based on input on console input and output.
+
+one question on file input and output.
+
+By Sunday evening
