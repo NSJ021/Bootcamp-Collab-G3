@@ -1,0 +1,8 @@
+Question Ideas from Module 3
+
+Which code snippet is correct, for opening myFile.txt?\nAnswer with A, B, C, or D
+A: fileToOpen = open('myFile.txt', 'r'),
+B: fileToOpen = open('my_File.txt', 'r'),
+C: fileToOpen = open('myFile.txt', 'w'),
+D: fileToOpen = open('myFile.txt', ' ')
+
