@@ -1,8 +1,29 @@
 Question Ideas from Module 3
 
+Question 1, based on opening a file in Python
+
 Which code snippet is correct, for opening myFile.txt?\nAnswer with A, B, C, or D
 A: fileToOpen = open('myFile.txt', 'r'),
 B: fileToOpen = open('my_File.txt', 'r'),
 C: fileToOpen = open('myFile.txt', 'w'),
-D: fileToOpen = open('myFile.txt', ' ')
+D: fileToOpen = open('myFile.txt', 'X')
+
+Question 1 Summary / Details after an answer is given
+
+A": When opening a file, you are required to use the open() function.
+    This function takes two parameters.
+    1. The file itself, e.g. myFile.txt.
+    2. "r" for reading the file, "a" for appending the file, "w" for writing to the file, and "x" for creating a file.
+
+B": A: fileToOpen = open('myFile.txt', 'r') is the correct answer.
+    B: fileToOpen = open('my_File.txt', 'r') is incorrect because the file name parameters are incorrect.
+
+C": A: fileToOpen = open('myFile.txt', 'r') is the correct answer.
+    C: fileToOpen = open('myFile.txt', 'w') is incorrect because the second parameter is incorrect as it is set to write not read "w".
+
+D": A: fileToOpen = open('myFile.txt', 'r') is the correct answer.
+    D: fileToOpen = open('myFile.txt', ' ') is incorrect because the second parameter is incorrect as it is set to create a file with "x" not read.
+
+
+Question 2,
 
